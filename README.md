@@ -9,15 +9,25 @@ To conduct a comprehensive analysis on Blinkit’s sales performance, customer s
 KPI’s : 
 
 	Total sales
+
 	Average sales
+
 	Number of Items
+
 	Average Ratings
+
 	Total sales by fat Content
+
 	Total Sales by Item Type
+
 	Fat content by Outlet for Total Sales
+
 	Total sales by Outlet Establishment
+
 	Sales by Outlet Size
+
 	Sales by Outlet location
+
 	All Metrics by Outlet Type
 
 Tools Used: 

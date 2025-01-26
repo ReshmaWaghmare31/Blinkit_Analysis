@@ -10,6 +10,7 @@ KPI’s :
 
 	Total sales
 
+
 	Average sales
 
 	Number of Items
@@ -33,5 +34,7 @@ KPI’s :
 Tools Used: 
 
 POWER BI
+
+![blinkit img](https://github.com/user-attachments/assets/74c37dc7-ff19-4701-b82d-a2257f9a8811)
 
 
